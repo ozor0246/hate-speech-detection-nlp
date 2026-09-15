@@ -17,6 +17,14 @@ The final system uses **TF-IDF (Term Frequency-Inverse Document Frequency)** for
 
 A simple interactive **Streamlit application** allows users to enter English text and receive a toxicity prediction together with the model's estimated toxicity probability.
 
+## Live Demo
+
+The deployed Streamlit application is available here:
+
+**[Launch Hate Speech Detector](https://ozor-hate-speech-detector.streamlit.app/)**
+
+Source code: **[GitHub Repository](https://github.com/ozor0246/hate-speech-detection-nlp)**
+
 ## Dataset
 
 The project uses the **Jigsaw Toxic Comment Classification** dataset.
@@ -313,9 +321,11 @@ This project demonstrates practical experience with:
 
 Machine Learning / AI Developer
 
-GitHub: 
+GitHub-REPOSITORY-URL: https://github.com/ozor0246/hate-speech-detection-nlp
 
-LinkedIn: 
+GitHub: https://github.com/ozor0246
+
+LinkedIn: https://www.linkedin.com/in/ozor-abiodun-511789229/
 
 ## Disclaimer
 
